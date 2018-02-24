@@ -138,14 +138,3 @@ ul li ul li a{
 	width: 250px;
 }
 
-@media only screen and (max-width: 768px){
-	body {
-		background-color: blue;
-	}
-	footer {
-		background-color: red;
-	}
-	#navigation {
-		background-color: red;
-	}
-}
