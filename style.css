@@ -63,10 +63,6 @@ nav a:hover {
 	opacity: 0.7;
 	}
 
-nav ul {
-	display: inline-block;
-	margin: auto;
-}
 
 #photo {
 	float: left;
@@ -117,6 +113,10 @@ section div p{
 	padding: 0px 30px
 	}
 
+ul {
+	display: inline-block;
+	margin: auto;
+}
 ul li{
 	position: relative;
 	z-index: 1;
